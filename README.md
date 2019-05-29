@@ -1,2 +1,4 @@
-# CodeAcademyP506-CodeAcademyP506-26-05-2019
-Homework
+# JavaScript-ə aid tapşırıqlar əlavədədir.
+
+#### Dərsdə keçdiklərimizi aşağıdaki linkdən oxuyun.
+https://www.w3schools.com/js/
